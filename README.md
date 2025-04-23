@@ -12,7 +12,7 @@ A free tool that turns your photo into Studio Ghibli-style art
 
 ## 🖼️ Example Output
 
-![Example]((https://your-image-host.com/sample-ghibli-style.png))
+![Example](https://your-image-host.com/sample-ghibli-style.png)
 
 ## 💡 Use Cases
 
